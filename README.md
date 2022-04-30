@@ -1,2 +1,2 @@
 UfroPicture codigo
-integrantes  Eesteban Saez,Paolo Paredes y Marcelo Henríquez
+integrantes  Esteban Saez,Paolo Paredes y Marcelo Henríquez
