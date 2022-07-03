@@ -23,7 +23,6 @@ public class Menu extends JFrame{
         añadirPanel();
         añadirBotonesSeleccionadores();
         añadorBotonesOpcionales();
-        añadirImagenes();
     }
 
     private void añadirPanel(){
@@ -120,10 +119,5 @@ public class Menu extends JFrame{
         Boton4.setText("Descargar");
         Boton4.setBounds(660,570,200,20);
         panel2.add(Boton4);
-    }
-
-    private void añadirImagenes() {
-        File file1 = new File("C:\\Users\\Chevy\\Desktop\\Marcelo 2022\\Imagenes ufroPicture\\Imagen1");
-        //BufferedImage bufferedImage1 = ImageIO.read(file1);
     }
 }
